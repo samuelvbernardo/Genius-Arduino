@@ -19,7 +19,7 @@ Lista de Dispositivos:
 - Jumpers (Macho/Macho)
 
 
-Todos os dispositivos usados neste vídeo você encontra no Kit de Arduino Iniciante V8 da Robocore neste Link: http://bit.ly/2UfXYvK
+Todos os dispositivos você encontra no Kit de Arduino Iniciante V8 da Robocore neste Link: http://bit.ly/2UfXYvK
 
 
 
